@@ -1,0 +1,17 @@
+{
+  "id": "/",
+  "name": "NU FindIt — Nile University",
+  "short_name": "NU FindIt",
+  "description": "The campus lost and found for Nile University.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f3f6fc",
+  "theme_color": "#102b61",
+  "icons": [
+    {"src":"assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"assets/icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
